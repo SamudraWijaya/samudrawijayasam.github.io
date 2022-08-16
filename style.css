@@ -166,7 +166,6 @@ main h3.title{
     line-height: 25px;
     font-size: 16px;
     text-align: justify;
-    padding-right: 37px;
 }
 
 .image-education{
@@ -177,7 +176,7 @@ main h3.title{
     padding: 12px 14%;
 }
 .image-box{
-    width: 300px;
+    width: 200px;
     height: 200px;
     margin: 10px;
     padding-bottom: 30px;
@@ -224,6 +223,7 @@ main h3.title{
     main .education{
         padding: 70px 3%;
     }
+   
 }
 
 
